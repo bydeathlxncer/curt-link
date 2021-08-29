@@ -24,3 +24,5 @@ $ cd curt-link
 $ bash install.sh
 
 $ python3 url.py
+
+![20210829_154948](https://user-images.githubusercontent.com/83184525/131262164-ebe7aca3-40c8-4f73-901d-29802b160144.jpg)
