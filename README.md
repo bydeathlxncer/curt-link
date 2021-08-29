@@ -6,8 +6,6 @@
 
 encurtador de links feito com python.
 
-foto
-
 # instalação
 ## Linux:
 
