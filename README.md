@@ -7,7 +7,7 @@
 # instalação
 ## Linux:
 
-$ git clone 
+$ git clone https://github.com/bydeathlxncer/curt-link
 
 $ cd curt-link
 
@@ -15,7 +15,7 @@ $ python3 url.py
 
 ## Termux: 
 
-$ git clone 
+$ git clone https://github.com/bydeathlxncer/curt-link
 
 $ cd curt-link
 
